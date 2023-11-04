@@ -1231,3 +1231,45 @@ h6 {
   font-size: 13px;
   color: #012970;
 }
+
+/*--------------------------------------------------------------
+# New Changes made after 28-05-2023
+--------------------------------------------------------------*/
+
+.right-side-background {
+    background-color: #25D4F6;
+}
+
+
+.right-logo {
+    text-align: right;
+    position: relative;
+    top: 50px;
+    z-index: 99;
+    padding: 20px;
+    background: #fff;
+}
+
+.right-logo img {
+    margin-right: 30px;
+    height: 35px;
+}
+
+.logos:nth-child(1) {
+    margin-right: 20px;
+}
+
+.page-section-content {
+    background: #fff none repeat scroll 0 0;
+}
+
+.page-section-content {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.page-section-content {
+    float: left;
+    width: 50%;
+}
